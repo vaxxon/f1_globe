@@ -1,0 +1,7 @@
+**How does precipitation affect races?**
+
+If precipitation trends **higher**, F1 teams will need to adapt by preparing and switching to wet tires and slowing down to avoid hydroplaning and crashing. If precipitation trends lower, F1 teams can rest easy driving in ideal conditions.
+
+Rain is the bane of Formula 1. The water prevents the tires from maintaining contact with the track, which introduces the threat of hydroplaning and reduces braking performance. Drivers must adapt their curves and braking patterns to the new conditions, which is especially tricky if the rain is intermittent or only affecting one portion of the track. Teams use minute-by-minute weather predictions to determine whether they will pit the car and switch to rain tires, which have treads. These treads direct water away from the tire to allow some contact with the track, but they still have less grip than the completely smooth tires that are normally used.
+
+Rain also reduces track visibility. To keep drivers safe, teams have engineered sealed helmets with water-repellant visors to keep their view clear no matter the conditions. The team may also choose to raise the front of the car, which reduces aerodynamic performance but allows the driver a better view. 

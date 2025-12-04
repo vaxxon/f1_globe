@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: var(--font-public-sans), sans-serif !important;
+}
+
+body {
+  font-family: var(--font-public-sans), sans-serif;
+  @apply font-sans;
+}
+
+a {
+    color: #C8102E
+}
+
+.prose p {
+    margin-bottom: 10px;
+}
+
+.infoDiv {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 6px;
+    padding: 3px 7px;
+    background-color: #dbdbdc;
+    border-radius: 5px;
+}
+
+.infoDiv p {
+    font-size: .8em;
+}

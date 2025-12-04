@@ -1,0 +1,7 @@
+**How does wind speed affect races?**
+
+If wind speed **increases**, drivers will need to adapt to difficulties in braking and visibility. If the wind speed **decreases**, drivers can expect more consistent, less exciting races.
+
+Wind speed and direction is a constantly changing variable during a race. The strategy a driver must use to compensate for the wind changes with its direction. When the wind comes towards the driver, they can expect more drag, which in turn causes the engine to work harder and consume more fuel to achieve a lower maximum speed. However, a headwind does increase braking efficiency, meaning that a driver can brake later in the turn and return to acceleration faster. All of these concerns are flipped when the car is subject to a tailwind: the wind accelerates the car, which increases engine efficiency but requires the driver to brake earlier and more aggressively. Winds that come from either side destabilize the front of the car, causing a driver to have to react quickly to correct their driving line.
+
+Windy tracks such as the Jeddah Corniche Circuit and Silverstone in the UK are often dusty, especially late in a race, when the tires – and possibly parts of smashed cars – have disintegrated into debris that can be picked up in the wind and tossed into a driver’s face.

@@ -1,0 +1,9 @@
+*.ai
+*.pdf
+f1_globe_plus.ipynb
+*.zip
+testing.js
+*.sqlite
+.next/
+.env.local
+.DS_Store

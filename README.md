@@ -5,7 +5,7 @@ A map of all the tracks used in the 2025 season along with weather data from tha
 This project was built for INFO-609 Intro to GIS at Pratt Institute. It consists of:
 
 - [f1_globe.ipynb](f1_globe.ipynb), a Jupyter notebook that fetches event information and historical weather patterns, and
-- a simple React app to display the information.
+- [f1_globe/](f1_globe), a simple React app to display the information.
 
 ## Project roadmap
 

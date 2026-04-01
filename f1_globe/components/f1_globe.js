@@ -34,7 +34,7 @@ export default function F1Globe() { // page component
     });
 
     map.current.on('load', () => {
-      fetch('tracks.geojson') // fetching from root... fix when you add dates & track names
+      fetch('/f1_globe/tracks.geojson') // fetching from root... fix when you add dates & track names
         .then((res) => res.json())
         .then((data) => {
           setGeojsonData(data);

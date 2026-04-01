@@ -7,3 +7,10 @@ testing.js
 .next/
 .env.local
 .DS_Store
+*.pkl
+*.ff1pkl
+*.pyc
+
+f1_predictor*.py
+fetch_f1_data.py
+README_F1_PREDICTOR.md
